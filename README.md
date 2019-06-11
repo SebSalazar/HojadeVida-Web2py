@@ -10,8 +10,8 @@ En el Home de la aplicacion se resaltan en una tabla los datos basicos y mas imp
 
 ## Capturas de pantalla
 
-![Estructura](https://github.com/SebSalazar/HojadeVida_Web2py/blob/master/Inicio.png)
-![Estructura](https://github.com/SebSalazar/HojadeVida_Web2py/blob/master/Modulos.png)
-![Estructura](https://github.com/SebSalazar/HojadeVida_Web2py/blob/master/hoja1.png)
-![Estructura](https://github.com/SebSalazar/HojadeVida_Web2py/blob/master/3.png)
-![Estructura](https://github.com/SebSalazar/HojadeVida_Web2py/blob/master/4.png)
+![Estructura](https://github.com/SebSalazar/HojadeVida-Web2py/blob/master/Inicio.png)
+![Estructura](https://github.com/SebSalazar/HojadeVida-Web2py/blob/master/Modulos.png)
+![Estructura](https://github.com/SebSalazar/HojadeVida-Web2py/blob/master/hoja1.png)
+![Estructura](https://github.com/SebSalazar/HojadeVida-Web2py/blob/master/3.png)
+![Estructura](https://github.com/SebSalazar/HojadeVida-Web2py/blob/master/4.png)
